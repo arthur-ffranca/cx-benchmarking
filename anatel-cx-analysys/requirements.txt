@@ -1,0 +1,8 @@
+uvicorn[standard]==0.24.0
+pandas==3.0.3
+DuckDB==v1.5.4
+Pyhton==3.13.0
+Jupyter Notebook==7.5
+openpyxl==3.1.5
+xlwings==0.36.6
+
