@@ -3,7 +3,6 @@
 
 
 
-\
 
 An end-to-end Customer Experience analytics project built with public satisfaction data.
 
