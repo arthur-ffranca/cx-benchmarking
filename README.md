@@ -1,10 +1,9 @@
 # Customer Experience Benchmarking
 
-![Python](https://img.shields.io/badge/Python-Data%20Processing-3776AB?logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Data%20Transformation-336791)
-![DuckDB](https://img.shields.io/badge/DuckDB-Analytical%20Engine-FFF000?logo=duckdb\&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter\&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-E97627?logo=tableau\&logoColor=white)
+
+
+
+\
 
 An end-to-end Customer Experience analytics project built with public satisfaction data.
 
@@ -29,8 +28,6 @@ The final output is an interactive Tableau dashboard focused on benchmarking, pr
 ---
 
 ## Dashboard
-
-![Customer Experience Benchmarking Dashboard](assets/dashboard_overview.png)
 
 The dashboard provides five complementary perspectives:
 
@@ -162,22 +159,16 @@ This approach keeps the transformation process documented, reproducible and conn
 ```text
 anatel-customer-experience-analytics/
 │
-├── assets/
-│   └── dashboard_overview.png
-│
 ├── data/
 │   ├── raw/
-│   │   └── README.md
-│   └── processed/
-│       └── anatel_cx_processed.csv
-│
+│        └── anatel_cx_processed.csv
+│ 
 ├── notebooks/
 │   └── anatel_cx_pipeline.ipynb
 │
 ├── tableau/
 │   └── anatel_cx_dashboard.twbx
 │
-├── .gitignore
 ├── README.md
 └── requirements.txt
 ```
